@@ -22,7 +22,7 @@ Um aplicativo simples do jogo Joken PO que foi desenvolvido durante o curso de D
 
 ## Funcionalidades
 
-- Tela dos inicial
+- Tela inicial
 - Tela de resultado
 
 ## Instalação
